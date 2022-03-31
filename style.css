@@ -1,0 +1,20 @@
+body{
+    background: #100a1c;
+    color: white;
+}
+.btn-group{
+    display: flex;
+}
+.btn{
+    height: 80px;
+    width: 25%;
+    font-size: 32px;
+    background-color:#100a1c;
+    color:white;
+}
+.btn:hover{
+    background-color:rgba(whitesmoke);
+}
+.all-clear{
+    width: 50%;
+}
